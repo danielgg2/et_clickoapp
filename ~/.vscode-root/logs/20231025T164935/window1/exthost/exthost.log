@@ -1,0 +1,22 @@
+2023-10-25 16:49:41.283 [info] Extension host with pid 12195 started
+2023-10-25 16:49:41.870 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-25 16:49:42.107 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-25 16:49:42.329 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-25 16:49:42.568 [info] Eager extensions activated
+2023-10-25 16:49:42.618 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 16:49:42.625 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 16:49:59.318 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-25 16:49:59.338 [info] Extension host with pid 12195 exiting with code 0
+2023-10-25 16:50:01.667 [info] Extension host with pid 12276 started
+2023-10-25 16:50:01.667 [info] Skipping acquiring lock for /var/www/html/clickoapp/~/.vscode-root/User/workspaceStorage/2df93fbab20cb52cc49c944ebf5cd292.
+2023-10-25 16:50:02.116 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-25 16:50:02.124 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-10-25 16:50:02.234 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-25 16:50:02.468 [info] Eager extensions activated
+2023-10-25 16:50:02.485 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 16:50:02.510 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-25 16:50:49.972 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-25 16:50:57.004 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-10-25 16:50:57.104 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-26 14:52:29.922 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-26 14:52:30.255 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

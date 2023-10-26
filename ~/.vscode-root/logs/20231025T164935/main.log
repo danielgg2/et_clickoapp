@@ -1,0 +1,32 @@
+2023-10-25 16:49:36.329 [info] update#setState idle
+2023-10-25 16:49:59.339 [info] Extension host with pid 12195 exited with code: 0, signal: unknown.
+2023-10-25 16:49:59.387 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-10-25 16:49:59.388 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 12174]: crashed with code 15 and reason 'killed'
+2023-10-25 16:50:06.149 [info] update#setState checking for updates
+2023-10-25 16:50:06.153 [info] update#setState idle
+2023-10-25 17:50:06.155 [info] update#setState checking for updates
+2023-10-25 17:50:06.171 [info] update#setState idle
+2023-10-25 18:50:06.168 [info] update#setState checking for updates
+2023-10-25 18:50:06.175 [info] update#setState idle
+2023-10-25 19:50:06.261 [info] update#setState checking for updates
+2023-10-25 19:50:06.265 [info] update#setState idle
+2023-10-25 20:50:06.363 [info] update#setState checking for updates
+2023-10-25 20:50:06.368 [info] update#setState idle
+2023-10-25 21:50:06.462 [info] update#setState checking for updates
+2023-10-25 21:50:06.468 [info] update#setState idle
+2023-10-25 22:50:06.517 [info] update#setState checking for updates
+2023-10-25 22:50:06.521 [info] update#setState idle
+2023-10-25 23:50:06.621 [info] update#setState checking for updates
+2023-10-25 23:50:06.636 [info] update#setState idle
+2023-10-26 00:50:06.628 [info] update#setState checking for updates
+2023-10-26 00:50:06.726 [info] update#setState idle
+2023-10-26 11:59:27.177 [info] update#setState checking for updates
+2023-10-26 11:59:27.190 [info] update#setState idle
+2023-10-26 12:59:27.282 [info] update#setState checking for updates
+2023-10-26 12:59:27.289 [info] update#setState idle
+2023-10-26 13:59:27.369 [info] update#setState checking for updates
+2023-10-26 13:59:27.372 [info] update#setState idle
+2023-10-26 14:59:27.429 [info] update#setState checking for updates
+2023-10-26 14:59:27.437 [info] update#setState idle
+2023-10-26 15:59:27.437 [info] update#setState checking for updates
+2023-10-26 15:59:27.441 [info] update#setState idle
